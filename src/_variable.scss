@@ -1,0 +1,38 @@
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.flex-row-end{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+}
+.flex-row-center{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.g-20{
+    gap: 20px;
+}
+.g-16{
+    gap:16px
+}
+.flex-1{
+    flex: 1;
+}
+.w-100{
+    width: 100%;
+}
+.border{
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+.p-10{
+    padding: 10px;
+}
+

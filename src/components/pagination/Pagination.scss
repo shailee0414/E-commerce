@@ -1,0 +1,13 @@
+@use "../../variable.scss" as *;
+
+.pagination-container{
+    padding: 40px 90px;
+    .disable{
+        background-color: gainsboro;
+        cursor: not-allowed;
+    }
+    .pointer{
+        cursor: pointer;
+    }
+
+}
